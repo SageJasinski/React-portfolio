@@ -5,16 +5,16 @@
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/SageJasinski",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "twitter",
+          "url": "https://twitter.com/Sage_Jasinski",
+          "class": "fab fa-twitter"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "professional photo.jpg"
     },
     "skills": {
       "icons": [
