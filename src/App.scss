@@ -38,7 +38,8 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	background-image: url("20220820_143847.jpg");
+	background-color: #907dc1;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -95,10 +96,12 @@ header h1 {
 	font-size: 400%;
 	text-align: center;
 	font-weight: 600 !important;
-	color: #353239;
+	color: #4e06ad;
+	background-color: #c8c7d0;
+	border-radius: 8px;
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	margin: 0 auto 18px auto;
-	width: 100%;
+	width: 20%;
 }
 
 .slider-image {
@@ -231,7 +234,7 @@ header h1 {
 }
 
 #resume {
-	background: #efe1bd;
+	background: #d4c4fb;
 }
 
 .experience-icon {
@@ -353,7 +356,7 @@ header h1 {
 }
 
 #portfolio {
-	background: #efe1bd;
+	background: #907dc1;
 	padding-bottom: 5%;
 }
 
